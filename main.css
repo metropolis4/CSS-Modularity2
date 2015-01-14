@@ -1,0 +1,40 @@
+.horiz-center-parent {
+	text-align: center;
+}
+.horiz-center-child {
+	display: inline-block;
+	padding: 10px;
+	margin: 10px;
+	vertical-align: top;
+}
+.vert-padding {
+	padding: 10% 0;
+}
+.list {
+	display: inline;
+}
+.list-item {
+	float: left;
+	list-style-type: none;
+}
+.button-clear {
+	padding: 0;
+	border: none;
+}
+.button {
+	color: #ffffff;
+	background: #ec828a;
+	border-radius: 5px;
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px 38px;
+
+}
+.button-big {
+	font-size: 24px;
+	padding: 24px 58px;
+}
+.button-little {
+	font-size: 13px;
+	padding: 5px 8px;
+}
